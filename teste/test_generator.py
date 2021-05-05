@@ -1,7 +1,6 @@
 
 #%%
-import os
-os.chdir("E:/II/S2/SD/proiect/binomialHeapFinal")
+
 
 import random 
 
